@@ -1,0 +1,14 @@
+{
+  "name": "discordtokenredeemer",
+  "version": "1.0.0",
+  "description": "auwis discord token redeemer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auwi"
+  ],
+  "author": "auwi",
+  "license": "SEE LICENSE.TXT"
+}

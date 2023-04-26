@@ -1,0 +1,12 @@
+{
+    "capmonsterkey": "",
+    "inputformat": "email:pass:token",
+    "outputformat": "email:pass:token",
+    "usewebhook": "true",
+    "webhookurl": "",
+    "simulaterealspeeds": "true",
+    "shouldchangetoken": "false",
+    "oldtokenchangemethod": "false",
+    "newpassword": "omari69!",
+    "newtokenchangemethod": "false"
+}
